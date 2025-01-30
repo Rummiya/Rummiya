@@ -1,16 +1,19 @@
-## Hi there 👋
+# Приветствую! 👋  
+Я фронтенд-разработчик, специализируюсь на **React, TypeScript, Redux Toolkit, RTK Query**.  
 
-<!--
-**Rummiya/Rummiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 О себе:
+- Опыт в разработке **интернет-магазинов** и **социальных сетей**
+- Работала с **MongoDB, Express, Docker** в фулл-стек проектах
+- Люблю разрабатывать UI, использую **TailwindCSS**
 
-Here are some ideas to get you started:
+### 🛠️ Технологии:
+- **Фронтенд:** React, TypeScript, Redux Toolkit, RTK Query, React Hook Form, TailwindCSS, NextUI
+- **Бэкенд:** Node.js, Express, Prisma, MongoDB
+- **Другое:** Docker, Git, Vite, REST API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Мои проекты:
+- [Интернет-магазин](https://github.com/Rummiya) — React + Redux Toolkit
+
+### 📫 Связаться со мной:
+[LinkedIn](https://linkedin.com/in/ТвойНик) | [Telegram](https://t.me/ТвойНик)
+
