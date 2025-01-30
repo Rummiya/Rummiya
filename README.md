@@ -12,8 +12,9 @@
 - **Другое:** Docker, Git, Vite, REST API
 
 ### 📌 Мои проекты:
-- [Интернет-магазин](https://github.com/Rummiya) — React + Redux Toolkit
+- [Онлайн-платформа для заказа пиццы](https://github.com/Rummiya/react-pizza) — React + TypeScript + Redux Toolkit
+- [Интернет-магазин](https://github.com/Rummiya/react-sneakers) - React + MockApi
 
 ### 📫 Связаться со мной:
-[LinkedIn](https://linkedin.com/in/ТвойНик) | [Telegram](https://t.me/ТвойНик)
+[LinkedIn](https://linkedin.com/in/rummiya) | [Telegram](https://t.me/blowyourmiind)
 
