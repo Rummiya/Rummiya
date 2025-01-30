@@ -19,6 +19,7 @@
 ### 📌 Мои проекты:
 - [Онлайн-платформа для заказа пиццы](https://github.com/Rummiya/react-pizza) — React + TypeScript + Redux Toolkit + MockApi
 - [Интернет-магазин](https://github.com/Rummiya/react-sneakers) - React + MockApi
+- FullStack Social Network - в процессе...
 
 ### 📫 Связаться со мной:
 [LinkedIn](https://linkedin.com/in/rummiya) | [Telegram](https://t.me/blowyourmiind)
