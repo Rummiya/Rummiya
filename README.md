@@ -28,8 +28,8 @@
 - [Лендинг для VPN](https://github.com/Rummiya/laslesVPN) — HTML + SCSS + JS
 - [Главная интернет-магазина для мебели](https://github.com/Rummiya/panto) — HTML + SCSS + JS
 - [Небольшой сайт с красивой анимацией при скролле](https://github.com/Rummiya/creative-scroll) — HTML + SCSS + JS + JSAP
-- [Сайт с 3D Parallax эффктом](https://github.com/Rummiya/natural-forest) — HTML + SCSS + JS
+- [Страница с 3D Parallax эффктом](https://github.com/Rummiya/natural-forest) — HTML + SCSS + JS
 
 ## 📫 Связаться со мной:
-[LinkedIn](https://linkedin.com/in/rummiya) | [Telegram](https://t.me/blowyourmiind)
+### [LinkedIn](https://linkedin.com/in/rummiya) | [Telegram](https://t.me/blowyourmiind)
 
