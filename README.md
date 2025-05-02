@@ -20,7 +20,7 @@
 - [Онлайн-платформа для заказа пиццы](https://github.com/Rummiya/react-pizza) — React + TypeScript + Redux Toolkit + MockApi
 - [Интернет-магазин](https://github.com/Rummiya/react-sneakers) — React + MockApi
 - [Этот же интернет-мазазин только на чистом js](https://github.com/Rummiya/js-sneakers) — HTML + SCSS + JS
-- FullStack Social Network — в процессе...
+- FullStack Social Network ([клиент](https://github.com/Rummiya/threads) [сервер](https://github.com/Rummiya/express-api)) — React + TypeScript + Redux Toolkit + RTK Query + Nextui + React Hook Form + TailwindCSS / Express + Prisma
 - [Мини-приложения для просмотра погоды](https://github.com/Rummiya/weather-app) — HTML + CSS + JS + Weather Api
 
 ### Лендинги
