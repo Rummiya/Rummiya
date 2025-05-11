@@ -29,7 +29,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=threads-api)](https://github.com/Rummiya/threads-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=react-pizza)](https://github.com/Rummiya/react-pizza)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=react-sneakers)](https://github.com/Rummiya/react-sneakers)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=js-sneakers)](https://github.com/Rummiya/js-sneakers)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=github-profile)](https://github.com/Rummiya/github-profile)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=weather-app)](https://github.com/Rummiya/weather-app)
 
 ### :airplane: Лендинги
