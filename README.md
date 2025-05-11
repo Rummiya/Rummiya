@@ -2,9 +2,9 @@
 Меня зовут Руммия и работаю над разработкой современных веб-приложений!
 
 ## 🛠️ Стэк технологий:
-Frontend: JavaScript, TypeScript, React, TailwindCSS, Scss, Redux Toolkit, RTK Query, React Hook Form
-Backend (базовые знания): Node.js, Express.js, PrismaORM, MongoDB
-Инструменты: Git, Postman, Vite, Webpack, Docker
+- Frontend: JavaScript, TypeScript, React, TailwindCSS, Scss, Redux Toolkit, RTK Query, React Hook Form
+- Backend (базовые знания): Node.js, Express.js, PrismaORM, MongoDB
+- Инструменты: Git, Postman, Vite, Webpack, Docker
 
 ## 🚀 Мои проекты:
 - Аналог Threads ([клиент](https://github.com/Rummiya/threads) / [сервер](https://github.com/Rummiya/express-api)) — React + TypeScript + Redux Toolkit + RTK Query + Nextui + React Hook Form + TailwindCSS / Express + Prisma + Docker
