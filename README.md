@@ -20,6 +20,8 @@
 - [Небольшой сайт с красивой анимацией при скролле](https://github.com/Rummiya/creative-scroll) — HTML + SCSS + JS + JSAP
 - [Страница с 3D Parallax эффктом](https://github.com/Rummiya/natural-forest) — HTML + SCSS + JS
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rummiya)](https://github.com/Rummiya/github-readme-stats)
+
 ## 📫 Связаться со мной:
 ### [LinkedIn](https://linkedin.com/in/rummiya) | [Telegram](https://t.me/blowyourmiind)
 
