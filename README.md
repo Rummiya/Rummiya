@@ -33,15 +33,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=weather-app)](https://github.com/Rummiya/weather-app)
 
 ### :airplane: Лендинги
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=contsruction)](https://github.com/Rummiya/contsruction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=construction)](https://github.com/Rummiya/construction)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=laslesVPN)](https://github.com/Rummiya/laslesVPN)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=panto)](https://github.com/Rummiya/panto)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=creative-scroll)](https://github.com/Rummiya/creative-scroll)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=natural-forest)](https://github.com/Rummiya/natural-forest)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rummiya&layout=compact)](https://github.com/Rummiya/github-readme-stats)
 
 ---
 
