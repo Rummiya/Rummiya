@@ -36,22 +36,10 @@
 
 </div>
 
-## :airplane: Лендинги
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=construction&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9&border_color=30363d)](https://github.com/Rummiya/construction)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=laslesVPN&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9&border_color=30363d)](https://github.com/Rummiya/laslesVPN)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=panto&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9&border_color=30363d)](https://github.com/Rummiya/panto)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=creative-scroll&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9&border_color=30363d)](https://github.com/Rummiya/creative-scroll)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=natural-forest&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9&border_color=30363d)](https://github.com/Rummiya/natural-forest)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=whitepace&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9&border_color=30363d)](https://github.com/Rummiya/whitepace)
-  
-</div>
-
-
 ---
 
 ## 📫 Связаться со мной
-### [LinkedIn](https://linkedin.com/in/rummiya) | [Telegram](https://t.me/blowyourmiind)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rummiya)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/blowyourmiind)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rumibashirova@gmail.com)
 
