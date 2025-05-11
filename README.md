@@ -30,7 +30,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=react-pizza&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9)](https://github.com/Rummiya/react-pizza)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=react-sneakers&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9)](https://github.com/Rummiya/react-sneakers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=github-profile&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9)](https://github.com/Rummiya/github-profile)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=weather-app&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9)](https://github.com/Rummiya/weather-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=promgrad&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9)](https://github.com/Rummiya/promgrad)
 
 ## :airplane: Лендинги
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=construction&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9)](https://github.com/Rummiya/construction)
