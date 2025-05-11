@@ -5,7 +5,7 @@
 
 ---
 
-## 🛠️ Стэк технологий:
+## 🛠️ Стэк технологий
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -24,23 +24,23 @@
 
 ---
 
-## 🚀 Мои проекты:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=threads)](https://github.com/Rummiya/threads)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=threads-api)](https://github.com/Rummiya/threads-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=react-pizza)](https://github.com/Rummiya/react-pizza)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=react-sneakers)](https://github.com/Rummiya/react-sneakers)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=github-profile)](https://github.com/Rummiya/github-profile)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=weather-app)](https://github.com/Rummiya/weather-app)
+## 🚀 Мои проекты
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=threads&theme=dark)](https://github.com/Rummiya/threads)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=threads-api&theme=dark)](https://github.com/Rummiya/threads-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=react-pizza&theme=dark)](https://github.com/Rummiya/react-pizza)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=react-sneakers&theme=dark)](https://github.com/Rummiya/react-sneakers)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=github-profile&theme=dark)](https://github.com/Rummiya/github-profile)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=weather-app&theme=dark)](https://github.com/Rummiya/weather-app)
 
-### :airplane: Лендинги
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=construction)](https://github.com/Rummiya/construction)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=laslesVPN)](https://github.com/Rummiya/laslesVPN)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=panto)](https://github.com/Rummiya/panto)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=creative-scroll)](https://github.com/Rummiya/creative-scroll)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=natural-forest)](https://github.com/Rummiya/natural-forest)
+## :airplane: Лендинги
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=construction&theme=dark)](https://github.com/Rummiya/construction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=laslesVPN&theme=dark)](https://github.com/Rummiya/laslesVPN)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=panto&theme=dark)](https://github.com/Rummiya/panto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=creative-scroll&theme=dark)](https://github.com/Rummiya/creative-scroll)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=natural-forest&theme=dark)](https://github.com/Rummiya/natural-forest)
 
 ---
 
-## 📫 Связаться со мной:
+## 📫 Связаться со мной
 ### [LinkedIn](https://linkedin.com/in/rummiya) | [Telegram](https://t.me/blowyourmiind)
 
