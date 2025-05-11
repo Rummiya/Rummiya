@@ -25,20 +25,20 @@
 ---
 
 ## 🚀 Мои проекты
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=threads&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9)](https://github.com/Rummiya/threads)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=threads-api&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9)](https://github.com/Rummiya/threads-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=react-pizza&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9)](https://github.com/Rummiya/react-pizza)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=react-sneakers&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9)](https://github.com/Rummiya/react-sneakers)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=github-profile&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9)](https://github.com/Rummiya/github-profile)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=promgrad&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9)](https://github.com/Rummiya/promgrad)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=threads&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9&border_color=30363d)](https://github.com/Rummiya/threads)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=threads-api&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9&border_color=30363d)](https://github.com/Rummiya/threads-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=react-pizza&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9&border_color=30363d)](https://github.com/Rummiya/react-pizza)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=react-sneakers&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9&border_color=30363d)](https://github.com/Rummiya/react-sneakers)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=github-profile&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9&border_color=30363d)](https://github.com/Rummiya/github-profile)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=promgrad&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9&border_color=30363d)](https://github.com/Rummiya/promgrad)
 
 ## :airplane: Лендинги
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=construction&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9)](https://github.com/Rummiya/construction)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=laslesVPN&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9)](https://github.com/Rummiya/laslesVPN)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=panto&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9)](https://github.com/Rummiya/panto)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=creative-scroll&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9)](https://github.com/Rummiya/creative-scroll)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=natural-forest&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9)](https://github.com/Rummiya/natural-forest)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=whitepace&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9)](https://github.com/Rummiya/whitepace)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=construction&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9&border_color=30363d)](https://github.com/Rummiya/construction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=laslesVPN&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9&border_color=30363d)](https://github.com/Rummiya/laslesVPN)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=panto&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9&border_color=30363d)](https://github.com/Rummiya/panto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=creative-scroll&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9&border_color=30363d)](https://github.com/Rummiya/creative-scroll)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=natural-forest&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9&border_color=30363d)](https://github.com/Rummiya/natural-forest)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rummiya&repo=whitepace&bg_color=0d1117&title_color=79c0ff&text_color=ffffff&icon_color=c9d1d9&border_color=30363d)](https://github.com/Rummiya/whitepace)
 
 ---
 
