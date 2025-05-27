@@ -45,6 +45,16 @@
 
 ---
 
+## 📈 Моя активность
+
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rummiya&theme=github_dark )
+
+</div>
+
+---
+
 ## 📫 Связаться со мной
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rummiya)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/blowyourmiind)
