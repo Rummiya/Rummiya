@@ -49,7 +49,7 @@
 
 <div align="center">
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rummiya&theme=github_dark )
+![rummiya](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rummiya&theme=github_dark )
 
 </div>
 
